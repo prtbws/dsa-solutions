@@ -7,7 +7,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 17**
+**Total solved: 18**
 
 ## Codeforces
 
@@ -40,11 +40,11 @@ Solutions organized by primary topic folder.
 
 Solutions from the CSES Problem Set, organized by section.
 
-**Solved: 5**
+**Solved: 6**
 
 | Section | Solved |
 | --- | --- |
-| [introductory-problems](./cses/introductory-problems) | 4 |
+| [introductory-problems](./cses/introductory-problems) | 5 |
 | [sorting-and-searching](./cses/sorting-and-searching) | 1 |
 
 
@@ -71,5 +71,5 @@ Solutions organized by difficulty level.
 | — | 0 |
 
 
-_Last updated: 2026-09-15_
+_Last updated: 2026-09-16_
 <!-- /cf-sync -->
