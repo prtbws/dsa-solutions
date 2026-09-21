@@ -7,17 +7,18 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 27**
+**Total solved: 28**
 
 ## Codeforces
 
 Solutions by [prtbws](https://codeforces.com/profile/prtbws), organized by difficulty rating.
 
-**Solved: 3**
+**Solved: 4**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 3 |
+| [Unrated](./codeforces/Unrated) | 1 |
 
 
 ## LeetCode
