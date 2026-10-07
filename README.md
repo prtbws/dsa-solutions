@@ -7,18 +7,18 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 44**
+**Total solved: 45**
 
 ## Codeforces
 
 Solutions by [prtbws](https://codeforces.com/profile/prtbws), organized by difficulty rating.
 
-**Solved: 6**
+**Solved: 7**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 3 |
-| [Unrated](./codeforces/Unrated) | 3 |
+| [Unrated](./codeforces/Unrated) | 4 |
 
 
 ## LeetCode
@@ -76,5 +76,5 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-07_
 <!-- /cf-sync -->
