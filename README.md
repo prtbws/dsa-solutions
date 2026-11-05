@@ -7,7 +7,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 82**
+**Total solved: 83**
 
 ## Codeforces
 
@@ -26,12 +26,12 @@ Solutions by [prtbws](https://codeforces.com/profile/prtbws), organized by diffi
 
 Solutions organized by primary topic folder.
 
-**Solved: 48**
+**Solved: 49**
 
 | Topic | Solved |
 | --- | --- |
 | [array](./leetcode/array) | 9 |
-| [binary-search](./leetcode/binary-search) | 3 |
+| [binary-search](./leetcode/binary-search) | 4 |
 | [breadth-first-search](./leetcode/breadth-first-search) | 1 |
 | [dynamic-programming](./leetcode/dynamic-programming) | 5 |
 | [graph](./leetcode/graph) | 1 |
@@ -86,5 +86,5 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-05_
 <!-- /cf-sync -->
