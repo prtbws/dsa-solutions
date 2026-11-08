@@ -7,7 +7,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 83**
+**Total solved: 84**
 
 ## Codeforces
 
@@ -26,7 +26,7 @@ Solutions by [prtbws](https://codeforces.com/profile/prtbws), organized by diffi
 
 Solutions organized by primary topic folder.
 
-**Solved: 49**
+**Solved: 50**
 
 | Topic | Solved |
 | --- | --- |
@@ -45,7 +45,7 @@ Solutions organized by primary topic folder.
 | [string](./leetcode/string) | 4 |
 | [tree](./leetcode/tree) | 1 |
 | [two-pointers](./leetcode/two-pointers) | 4 |
-| [union-find](./leetcode/union-find) | 2 |
+| [union-find](./leetcode/union-find) | 3 |
 
 
 ## CSES
@@ -86,5 +86,5 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-11-05_
+_Last updated: 2026-11-08_
 <!-- /cf-sync -->
