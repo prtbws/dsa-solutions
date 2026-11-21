@@ -11,7 +11,11 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<pair<int , ListNode*>, vector<pair<int , ListNode*>>, greater<pair<int , ListNode*>>> pq;
+        priority_queue<
+            pair<int , ListNode*>, 
+            vector<pair<int , ListNode*>>, 
+            greater<pair<int , ListNode*>>
+        > pq;
 
         for (auto i : lists) {
             if (i) pq.push({i->val, i});
